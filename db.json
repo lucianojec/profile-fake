@@ -1,6 +1,10 @@
 {
-  "id": "1",
-  "nome": "Clementina DuBuque",
-  "username": "Moriah.Stanton",
-  "email": "Rey.Padberg@karina.biz"
+  "profile": [
+    {
+      "id": "1",
+      "nome": "Luciano Oliveira",
+      "username": "luciano.fagundes",
+      "email": "luciano@gmail.com"
+    }
+  ]
 }
